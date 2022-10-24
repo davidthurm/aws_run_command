@@ -1,11 +1,7 @@
 # Run Command
 
-Select "Raw" on the github site to get the correct URL.
 
-![Image](images/run_command_image_4.PNG)
-<br />
-<br />
-<br />
+
 # Command document
 ## Search for Ansible as the Keyword
 ### Choose:
@@ -13,6 +9,21 @@ Select "Raw" on the github site to get the correct URL.
  AWS-RunAnsiblePlaybook
 ```
 ![Image](images/run_command_image_1.PNG)
+<br />
+<br />
+<br />
+
+# Jump to your Github Repository
+Select "Raw" on the github site to get the correct URL.
+
+![Image](images/run_command_image_4.PNG)
+
+<br />
+<br />
+<br />
+
+![Image](images/run_command_image_6.PNG)
+
 <br />
 <br />
 <br />
@@ -36,7 +47,6 @@ Choose your Intances you want to run ansible on.
 
 # Enabling the S3 Bucket for logging
 ![Image](images/run_command_image_5.PNG)
-
 <br />
 
 # Skip the rest and hit "RUN"
