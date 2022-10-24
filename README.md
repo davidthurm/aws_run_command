@@ -23,4 +23,4 @@ Choose your Intances you want to run ansible on.
 ![image info](images/run_command_image_3.png)
 
 
-<img src="/images/run_command_image_4.png" alt="Employee data" title="Employee Data title">
+<img src="https://github.com/davidthurm/aws_ssm_documentation/blob/main/images/run_command_image_1.PNG" alt="Employee data" title="Employee Data title">
