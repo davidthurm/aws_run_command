@@ -24,3 +24,4 @@ Choose your Intances you want to run ansible on.
 
 
 
+![image info](https://github.com/davidthurm/aws_ssm_documentation/blob/main/images/run_command_image_4.png)
