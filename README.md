@@ -3,12 +3,16 @@
 
 
 # Command document
-## Search for Ansible as the Keyword
+
+Search:
+```
+ansible
+```
+![Image](images/run_command_image_1.PNG)
 ### Choose:
 ```
  AWS-RunAnsiblePlaybook
 ```
-![Image](images/run_command_image_1.PNG)
 <br />
 <br />
 <br />
