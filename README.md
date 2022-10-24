@@ -22,6 +22,7 @@ Select "Raw" on the github site to get the correct URL.
 <br />
 <br />
 
+# Example Output of Raw File
 ![Image](images/run_command_image_6.PNG)
 
 <br />
